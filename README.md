@@ -4,12 +4,24 @@ Spring Boot 백엔드와 연동하는 TypeScript 기반 React 프론트엔드 �
 
 ## 실행 가이드
 
-### 1. 의존성 설치 (npm 미설치 시)
+1. 프로젝트 불러오기
+
+바탕화면 또는 프로젝트 생성 위치에서 아래의 명령어 실행
+```bash
+git clone https://github.com/LGH0507/Web-Study.git
+```
+
+2. 터미널에서 아래의 명령어로 디렉토리 이동 또는 **Visual Studio Code**와 같은 IDE로 프로젝트 열기
+```bash
+cd Web-Study
+```
+
+3. 의존성 설치 (npm 미설치 시)
 ```bash
 npm install
 ```
 
-### 2. 개발 서버 실행
+4. 개발 서버 실행
 ```bash
 npm run dev
 ```
